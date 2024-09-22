@@ -1,0 +1,18 @@
+progressbar2
+gdown
+gitpython
+git+https://github.com/cheind/py-thin-plate-spline
+hickle
+tensorboard
+numpy
+git+https://github.com/facebookresearch/segment-anything.git
+opencv-python
+matplotlib
+pyyaml
+av
+openmim
+tqdm
+psutil
+gradio == 3.48.0
+httpx==0.23.0
+httpcore==0.15.0
